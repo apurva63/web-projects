@@ -1,0 +1,100 @@
+/* This is a Header CSS */
+
+div.c
+{
+  font-size: 150%;
+}
+
+a
+{
+  color: black;
+}
+
+/* This is a Body CSS */
+
+.center
+{
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.PhotoBorder
+{
+  border: 2px solid #555;
+}
+
+.Style1
+{
+  font-size: 105%;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.FontSize3
+{
+  font-size: 800%;
+}
+
+.FontSize2
+{
+  font-size: 240%;
+  font-family: "Copperplate", Fantasy;
+}
+
+.HRStyle1
+{
+  border: 1px solid red;
+}
+
+.HRStyle2
+{
+  border: 3px solid green;
+}
+
+.CardStyle
+{
+  border: 5px solid black;
+}
+
+.FontSize5
+{
+  font-size: 120%;
+  font-family: "Copperplate", Fantasy;
+}
+
+.center8
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.center3
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+/* This is a Footer CSS - Rest Of Footer CSS are in Footer.css Page*/
+
+#myBtn {
+  display: none; 
+  position: fixed; 
+  bottom: 20px; 
+  right: 30px; 
+  z-index: 99; 
+  border: none; 
+  outline: none; 
+  background-color: red; 
+  color: white; 
+  cursor: pointer; 
+  padding: 5px; 
+  border-radius: 10px; 
+  font-size: 18px; 
+}
+
+#myBtn:hover {
+  background-color: #555; 
+}
